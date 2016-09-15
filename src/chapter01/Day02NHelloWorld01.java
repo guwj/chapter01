@@ -10,7 +10,7 @@ public class Day02NHelloWorld01 {
 		int count = scanner.nextInt();
 		
 		int i = 0;
-		while( i < count){
+		while( i < count ){
 			System.out.println("Hello World");
 			i++;
 		}

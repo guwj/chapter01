@@ -4,7 +4,7 @@ public class Day02InfiniteLoop {
 
 	public static void main(String[] args) {
 		
-//		for( ; ; ){
+//		for( ; ; ){		무한루프
 //			
 //		}
 		

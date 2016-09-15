@@ -7,7 +7,6 @@ public class NumberTriangle {
 			System.out.println("정수값을 입력하세요");
 			return;
 		}
-		
 		System.out.println( args[0]);
 		int count = Integer.parseInt(args[0]); //String형인 args[0]을 int형으로 바꿔서 출력
 		System.out.println( count);

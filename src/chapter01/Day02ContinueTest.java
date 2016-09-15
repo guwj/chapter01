@@ -9,6 +9,8 @@ public class Day02ContinueTest {
 			}
 		}
 		
+		
+		// 강사님이 짠 코드 -> 가독성이 좋다
 		for(int i = 0 ; i <= 20 ; i++){
 			if(i%2 ==0){
 				continue;
